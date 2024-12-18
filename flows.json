@@ -35,7 +35,7 @@
         "syntax": "mustache",
         "template": "<html>\n    <head></head>\n    <body>\n        <p>Hello</p>\n        </body>\n    </html>",
         "output": "str",
-        "x": 380,
+        "x": 360,
         "y": 80,
         "wires": [
             [
